@@ -1,0 +1,10 @@
+token: https://staging-oauthserver.ecwcloud.com/oauth/oauth2/token
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD
+
+curl -d "@data.txt" -H "Content-Type: application/x-www-form-urlencoded" -X POST https://oauthserver.eclinicalworks.com/oauth/oauth2/token
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=fb03b37a-034a-4ca8-97e7-bb1b73700d66
+ https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/CarePlan?category=assess-plan&patient=87-HRfvAlmgddSXckFaUjYrRkdVvBozXfmsAsP0TM68
+ https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/CarePlan?category=assess-plan&patient=87-HRfvAlmgddSXckFaUjYrRkdVvBozXfmsAsP0TM68
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=CarePlan,CareTeam,Condition
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=5b88c3e9-bbaf-45ad-a960-22b482e9e011
