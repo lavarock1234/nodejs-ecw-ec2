@@ -8,3 +8,25 @@ https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=fb0
  https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/CarePlan?category=assess-plan&patient=87-HRfvAlmgddSXckFaUjYrRkdVvBozXfmsAsP0TM68
 https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=CarePlan,CareTeam,Condition
 https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=5b88c3e9-bbaf-45ad-a960-22b482e9e011
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=AllergyIntolerance,DocumentReference,Encounter
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=7a8e8936-2725-4547-a8d8-9a6fc290e305 (done)
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=Goal,Immunization,Location
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=f49a45b0-32d9-4b8e-83ba-a33d5ac1d9cf (done)
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=Binary,Device,DiagnosticReport
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=17989753-2678-403b-a2bc-910d0d93f554 (78% stuck)
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=03938cf2-c4dd-47c5-be67-fd0717399b80 (78%)
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=Device,DiagnosticReport
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=64aac575-70cc-49b2-b2d1-83ada9b04556
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=Medication,MedicationAdministration,MedicationRequest
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=9ef5c190-669a-4665-8d3a-6a75437a3efc (100%)
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=Organization,Observation,Patient
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=562006cb-37fb-430e-8125-effd506c315c (100%)
+
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/Group/74781b6c-59b8-4370-883f-ba064f760a42/$export?_type=Practitioner,PractitionerRole,Procedure,Provenance
+https://fhir4.eclinicalworks.com/fhir/r4/IHIGCD/$export-poll-location?job_id=dcd6f3bb-5b2c-41f0-b869-b85e4cbd0665 (100%)
